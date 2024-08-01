@@ -1,5 +1,5 @@
 """ matched function is use to determine open"(" and close ")" brackets.
-if it matches return true,else return as false"""
+if it matches return true,else return as false."""
 
 
 def matched(input_string):
